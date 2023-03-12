@@ -1,4 +1,4 @@
-# python-
+# python
 可以用于简单的自动点击，实现办公自动化、游戏自动化、自动化刷短视频等等
 1.	安装python3.4以上版本，并配置环境变量（目前有装3.9遇到坑的，我个人用的3.7.6）
 教程：https://www.runoob.com/python3/python3-install.html
